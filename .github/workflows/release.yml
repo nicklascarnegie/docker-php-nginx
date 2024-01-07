@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'php7'
 
 env:
   REGISTRY: ghcr.io
